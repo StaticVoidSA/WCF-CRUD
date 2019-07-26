@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Git_WCF_Heroes_App.Service.SuperHeroService" CodeBehind="SuperHeroService.svc.cs" %>
