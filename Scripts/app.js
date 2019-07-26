@@ -5,7 +5,6 @@ $(document).ready(function () {
     getAllHeroes();
 });
 
-
 function drawHeroTable(heroList) {
     $tbody = $("#table-body");
     $tbody.empty();
